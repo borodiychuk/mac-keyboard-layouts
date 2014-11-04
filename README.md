@@ -1,4 +1,4 @@
-ukrainian-keyboard
+Ukrainian keyboard
 ==================
 
 Ukrainian keyboard layout for Mac.
